@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I love exploring the world around, through the medium of technology!
+
+Currently developing classic Minesweeper computer game on python tkinter :P
